@@ -1,7 +1,7 @@
 @extends('template.index')
 
 @section('content')
- <div class="container-fluid px-4" style="background: linear-gradient(to bottom, #ff0000, #00ff00);">
+ <div class="container-fluid px-4" style="background: linear-gradient(to bottom,  #a8c0ff, #3f2b96);">
     <div class="container-fluid px-4">
         <h1 class="mt-4">Tipe Mobil</h1>
         <div class="d-flex justify-content-between mb-3">
